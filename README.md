@@ -1,4 +1,4 @@
-# ** Bandit**
+# Bandit
 
 ### **LEVEL-0:**
 
