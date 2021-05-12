@@ -1,3 +1,6 @@
+# ** Bandit**
+=============
+
 ### **LEVEL-0:**
 
 I used the following command to connect the bandit
